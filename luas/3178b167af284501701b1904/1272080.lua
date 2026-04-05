@@ -2,7 +2,7 @@
 -- update time: 2026-03-17
 -- app_name: PAYDAY3 (收获日3)  
 
-addappid(1272080)
+addappid(1272080,0,"936ace676b0f55735b99f0fa85ec0f7591457b37170bd6fde4e6c1527cbcfcec")
 
 addappid(1272081,0,"3e032aede34266458c52fd8d6bd33c4505bc1742e2cdbba706fe9746a83059fa")
 
