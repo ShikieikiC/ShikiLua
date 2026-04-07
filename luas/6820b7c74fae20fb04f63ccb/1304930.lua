@@ -2,7 +2,7 @@
 -- update time: 2026-04-01
 -- app_name: The Outlast Trials
 
-addappid(1304930)
+addappid(1304930,0,"7e1bcb0ff8a4d9f5b812334dcb1b6683cef2c631a9bd65d41ec64e6264cc1f8c")
 
 addappid(1304931,0,"81611074b6fd0d2e108d34562aca73115d01d6bea3f08092b8d98aad42c2f0fb")
 
