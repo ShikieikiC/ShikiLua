@@ -1,5 +1,5 @@
 {
-    "version": "2.50",
-    "url": "https://www.bilibili.com/video/BV1iFX2BWEXZ/",
-    "notes": "发现新版本，建议更新喵~"
+    "version": "2.51",
+    "url": "https://www.bilibili.com/video/BV1iFX2BWEXZ",
+    "notes": "修复了绝大多数时 入库游戏显示为购买 或 添加新游戏后第一次重启无效 的问题。\n\n由于将项目的py版本从12升级到了13，故暂时保留v2.50的下载通道，以防部分人无法正常启动v2.51版本喵~"
 }
