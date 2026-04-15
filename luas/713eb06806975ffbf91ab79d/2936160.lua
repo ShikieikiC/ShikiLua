@@ -10,6 +10,3 @@ addappid(2969091,0,"e2478ea3a29c9eaf4e99845e2cf51bcd6e2a467bca3d3a99e9b80271805b
 
 addappid(2969080)
 addappid(2969090)
-addappid(2969100)
-addappid(2969110)
-addappid(2969120)

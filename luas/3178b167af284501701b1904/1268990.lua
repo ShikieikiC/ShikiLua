@@ -5,7 +5,3 @@
 addappid(1268990)
 
 addappid(1268991,0,"9952b0662e4853d3be03835e155cfcc8067efc539a75825954fd8ae6647f4cf2")
-
-addappid(1806870)
-addappid(1806890)
-addappid(2201750)

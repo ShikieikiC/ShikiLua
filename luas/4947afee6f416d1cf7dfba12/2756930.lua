@@ -6,6 +6,5 @@ addappid(2756930)
 
 addappid(2756931,0,"654cfb2a808481d61a5d839c4f41eac8c63cb1ecce79750ef671f3f107f4b32b")
 
-addappid(3932570)
 addappid(4445930)
 addappid(4446060)
