@@ -1,5 +1,5 @@
 {
-    "version": "2.52",
-    "url": "https://www.bilibili.com/video/BV1iFX2BWEXZ",
-    "notes": "\nv2.51: 修复了 入库游戏显示为购买 或 添加新游戏后第一次重启无效 的问题。\n\nv2.52: 应小伙伴要求，简单添加了对深色模式的显示兼容，已经尽力在配色了喵（）"
+    "version": "2.53",
+    "url": "https://www.bilibili.com/video/BV13xdEBCEBw/",
+    "notes": "\n增加了D加密授权功能，写着玩的喵~o( =∩ω∩= )m，有出现问题的及时反馈哦！"
 }
