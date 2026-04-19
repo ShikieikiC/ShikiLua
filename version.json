@@ -1,5 +1,5 @@
 {
-    "version": "2.53",
+    "version": "2.54",
     "url": "https://www.bilibili.com/video/BV13xdEBCEBw/",
-    "notes": "\n增加了D加密授权功能，写着玩的喵~o( =∩ω∩= )m，有出现问题的及时反馈哦！"
+    "notes": "\n优化了D加密的授权流程；修复了手搓Lua功能的一些bug。"
 }
