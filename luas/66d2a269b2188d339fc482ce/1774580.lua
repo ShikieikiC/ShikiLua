@@ -2,7 +2,7 @@
 -- update time: 2024-09-12
 -- app_name: 星球大战 绝地：幸存者™
 
-addappid(1774580)
+addappid(1774580,0,"f7b4bb3589f21f00dfc05944f80e264d91839c7bb3e87323d390b42d465a1dfa")
 
 addappid(1774581,0,"94d6a0b0e4e36aadffcbc197792207f773276593c72faf9b02b4b4200135a36f")
 addappid(1774582,0,"b6efa1ef672dce88aa6a6a094211c19110ebe78cf04b8bb87f7ba76e7cf15243")
